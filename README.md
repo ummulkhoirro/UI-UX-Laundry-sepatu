@@ -1,0 +1,10 @@
+Banyak orang mengalami kesulitan dalam mencuci dan merawat sepatu mereka. Beberapa di antaranya tidak memiliki cukup waktu karena kesibukan sehari-hari, merasa malas karena proses pencucian yang merepotkan, atau kecewa dengan hasil pencucian yang kurang memuaskan jika dilakukan sendiri. Akibatnya, sepatu menjadi cepat kotor, berbau tidak sedap, bahkan mengalami kerusakan karena tidak dirawat dengan cara yang benar dan konsisten. Permasalahan ini menunjukkan adanya kebutuhan nyata akan layanan perawatan sepatu yang lebih mudah diakses dan terpercaya. 
+
+
+Sebagai solusi atas permasalahan tersebut, Sepatoe Moe hadir dengan menawarkan layanan laundry sepatu berbasis website. Platform ini dirancang agar pengguna tidak perlu mengunduh aplikasi tambahan, sehingga lebih fleksibel dan dapat diakses melalui berbagai perangkat, baik komputer maupun ponsel. Kemudahan akses ini menjadi salah satu nilai lebih yang ditawarkan, mengingat kebutuhan masyarakat modern terhadap layanan praktis dan efisien semakin meningkat.
+
+
+Website Sepatoe Moe tidak hanya sekedar platform layanan pencucian sepatu, tetapi juga dirancang agar sistem pemesanan lebih terstruktur, layanan lebih terorganisir, dan transaksi lebih transparan. Setiap tahap, mulai dari pemilihan layanan, pengisian detail sepatu, hingga pembayaran dan pelacakan pesanan, disusun dengan alur yang jelas. Pengguna juga akan menerima pembaruan secara real-time, sehingga proses pencucian dapat dipantau tanpa rasa khawatir. Hal ini memberikan rasa aman dan kepercayaan lebih terhadap sistem layanan yang disediakan.
+
+
+Untuk mendukung kenyamanan pengguna, desain User Interface (UI) dan User Experience (UX) dari website ini dirancang secara optimal. Antarmuka yang intuitif memungkinkan pengguna baru sekalipun dapat memahami cara penggunaan dengan mudah. Seluruh elemen visual dan fungsional disusun agar memberikan pengalaman penggunaan yang menyenangkan, cepat, dan efisien. Dengan pendekatan ini, Sepatoe Moe tidak hanya memberikan solusi praktis, tetapi juga meningkatkan kepuasan pelanggan dalam merawat sepatu mereka secara digital.
